@@ -1,12 +1,12 @@
 const DISCORD = "https://discord.gg/fusuVXV6a";
 
 const members = [
-  {name:"VORTEX", role:"CLAN LEAD", rank:"LEADER", kills:12500, skill:9.8, status:"ONLINE"},
-  {name:"YOUR NAME", role:"ELITE", rank:"MEMBER", kills:8200, skill:8.4, status:"ONLINE"},
-  {name:"PLAYER 03", role:"MEMBER", rank:"MEMBER", kills:6400, skill:7.2, status:"ONLINE"},
-  {name:"PLAYER 04", role:"MEMBER", rank:"MEMBER", kills:5100, skill:6.8, status:"AWAY"},
-  {name:"PLAYER 05", role:"MEMBER", rank:"MEMBER", kills:4700, skill:6.6, status:"ONLINE"},
-  {name:"PLAYER 06", role:"MEMBER", rank:"MEMBER", kills:3900, skill:6.1, status:"OFFLINE"}
+  {name:"hussein", role:"CLAN LEAD", rank:"LEADER", kills:3554, skill:9.8, status:"ONLINE"},
+  {name:"Xiris", role:"CLAN LEAD", rank:"LEADER", kills:0000, skill:.10, status:"ONLINE"},
+  {name:"PLAYER 03", role:"MEMBER", rank:"MEMBER", kills:0000, skill:7.2, status:"AWAY"},
+  {name:"PLAYER 04", role:"MEMBER", rank:"MEMBER", kills:0000, skill:6.8, status:"AWAY"},
+  {name:"PLAYER 05", role:"MEMBER", rank:"MEMBER", kills:0000, skill:6.6, status:"AWAY"},
+  {name:"PLAYER 06", role:"MEMBER", rank:"MEMBER", kills:0000, skill:6.1, status:"AWAY"}
 ];
 
 const rules = [
