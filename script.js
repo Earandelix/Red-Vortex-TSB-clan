@@ -1,8 +1,8 @@
 const DISCORD = "https://discord.gg/fusuVXV6a";
 
 const members = [
-  {name:"Hussein", role:"Owner", rank:"Wolf", kills:3554, skill:9.8, status:"ONLINE"},
-  {name:"Xiris", role:"Semi owner", rank:"MEMBER", kills:8200, skill:8.4, status:"ONLINE"},
+  {name:"Hussein", role:"Leader", rank:"Wolf", kills:3554, skill:9.8, status:"ONLINE"},
+  {name:"Xiris", role:"Semi Leader", rank:"MEMBER", kills:0000, skill:10, status:"ONLINE"},
   {name:"PLAYER 03", role:"MEMBER", rank:"MEMBER", kills:6400, skill:7.2, status:"AWAY"},
   {name:"PLAYER 04", role:"MEMBER", rank:"MEMBER", kills:5100, skill:6.8, status:"AWAY"},
   {name:"PLAYER 05", role:"MEMBER", rank:"MEMBER", kills:4700, skill:6.6, status:"AWAY"},
