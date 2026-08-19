@@ -4,9 +4,9 @@ const members = [
   {name:"Inumaki", role:"CLAN LEAD", rank:"LEADER", kills:3554, skill:9.8, status:"ONLINE"},
   {name:"Xiris", role:"CLAN LEAD", rank:"LEADER", kills:4701, skill:10, status:"ONLINE"},
   {name:"MxE", role:"moderator", rank:"MEMBER", kills:30151, skill:10, status:"online"},
-  {name:"PLAYER 04", role:"MEMBER", rank:"MEMBER", kills:0000, skill:6.8, status:"AWAY"},
-  {name:"PLAYER 05", role:"MEMBER", rank:"MEMBER", kills:0000, skill:6.6, status:"AWAY"},
-  {name:"PLAYER 06", role:"MEMBER", rank:"MEMBER", kills:0000, skill:6.1, status:"AWAY"}
+  {name:"mxessy", role:"MEMBER", rank:"MEMBER", kills9222, skill:7.2, status:"Online "},
+  {name:"PLAYER 05", role:"MEMBER", rank:"MEMBER", kills:0000, skil l:6.6, status:"AWAY"},
+  {name:"PLAYER 06", role:"MEMBER", rank:"MEMBER", kills:0000,skill:6.1, status:"AWAY"}
 ];
 
 const rules = [
