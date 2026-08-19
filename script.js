@@ -1,4 +1,4 @@
-const DISCORD = "https://discord.gg/fusuVXV6a";
+const DISCORD = "https://discord.gg/UNh3J6s74";
 
 const members = [
   {name:"Inumaki", role:"CLAN LEAD", rank:"LEADER", kills:3554, skill:9.8, status:"ONLINE"},
